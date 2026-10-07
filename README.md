@@ -12,10 +12,7 @@
 ## Stack
 Python · TypeScript · FastAPI · LangGraph · LangChain · Pydantic · Redis · Kafka · Docker · Kubernetes · Terraform · AWS · Azure
 
-## Selected projects
-<!-- Add only projects you can share publicly. One line each: what it does, what you used, link. -->
-- **[Project name]** – [one line on what the agent does and how it is evaluated] · [link]
-- **[Project name]** – [one line] · [link]
+
 
 ## Connect
 [LinkedIn](https://www.linkedin.com/in/abhilashreddy1808) · [GitHub](https://github.com/abhilash18089-AI)
